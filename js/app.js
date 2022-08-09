@@ -19,7 +19,8 @@ const coffees = [
     name: "Intranet",
     image: "images/intranet.jpg",
     link: "http://intranet.indomarine.co.id/"
-  },
+  }
+  ,
   {
     name: "SC-Ticketing",
     image: "images/sc-ticket.jpg",
@@ -30,6 +31,12 @@ const coffees = [
     name: "Daily IT Support",
     image: "images/daily-is.jpg",
     link: "http://daily-is.indomarine.co.id/"
+  }
+  ,
+  {
+    name: "Log Book Belajar Karyawan",
+    image: "images/log-belajar.jpg",
+    link: "https://script.google.com/macros/s/AKfycbxohMr7Mbt6--7tt4B6W9SCaoNmsqScXjCtehu7lqLnxHxaljzg5mv5F2Fjmw1-yMaPcQ/exec"
   }
   
 ];
