@@ -6,7 +6,7 @@ const coffees = [
     link: "http://www.indomarine.co.id/"
   },
   {
-    name: "Cloud",
+    name: "Cloud Indomarine",
     image: "images/cloud.jpg",
     link: "http://cloud.indomarine.co.id/index.php/login"
   },
