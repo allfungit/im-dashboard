@@ -30,7 +30,7 @@ const coffees = [
   {
     name: "Log Book Belajar Karyawan",
     image: "images/log-belajar.jpg",
-    link: "https://script.google.com/macros/s/AKfycbxohMr7Mbt6--7tt4B6W9SCaoNmsqScXjCtehu7lqLnxHxaljzg5mv5F2Fjmw1-yMaPcQ/exec"
+    link: "http://development.indomarine.co.id/"
   }
   
 ];
