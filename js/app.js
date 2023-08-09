@@ -29,7 +29,7 @@ const coffees = [
   ,
   {
     name: "Log Book Belajar Karyawan",
-    image: "images/log-belajar.jpg",
+    image: "images/logbook.jpg",
     link: "http://development.indomarine.co.id/"
   }
   
